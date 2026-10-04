@@ -1,0 +1,2 @@
+# VelopackTestApp
+VelopackとGitHubリリースによる自動アップデート機能のテスト用
